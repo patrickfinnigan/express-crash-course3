@@ -1,0 +1,26 @@
+{
+  "name": "express-crash-course3",
+  "version": "1.0.0",
+  "description": "one more time to freshen up the expressjs skills",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patrickfinnigan/express-crash-course3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patrickfinnigan/express-crash-course3/issues"
+  },
+  "homepage": "https://github.com/patrickfinnigan/express-crash-course3#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^4.0.4",
+    "moment": "^2.26.0",
+    "uuid": "^8.1.0"
+  }
+}
